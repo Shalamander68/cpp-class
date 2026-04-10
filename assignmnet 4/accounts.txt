@@ -1,0 +1,56 @@
+4821:John:Smith:123 Elm St, Springfield, IL 62701:13245.67:24500.88:5789.55
+3421:Jane:Doe:456 Oak St, Rivertown, TX 75001:21875.42:13200.25:4125.77
+5631:Michael:Johnson:789 Pine St, Centerville, CA 90001:34523.10:2200.50:15000.21
+9412:Emily:Brown:101 Maple St, Greenfield, WI 53220:9876.88:11000.40:3500.30
+1923:Chris:Williams:202 Birch St, Lakeside, MN 55345:7623.94:18000.99:9240.71
+5829:Jessica:Jones:303 Cedar St, Valley Forge, PA 19481:12345.67:5500.25:18420.56
+3142:David:Miller:404 Willow St, Plainview, NE 68769:5670.20:8500.77:3200.18
+1824:Sarah:Davis:505 Redwood St, Oakwood, FL 33101:14230.80:18750.65:11012.90
+7365:Robert:Martinez:606 Maplewood St, Crestwood, NY 10901:16500.45:14250.12:7100.30
+4731:Michelle:Garcia:707 Aspen St, Parkland, AZ 85001:38000.65:58000.40:1000.50
+2892:Brian:Rodriguez:808 Pinehurst St, Clearwater, FL 33756:22450.90:12500.75:2900.30
+7512:Linda:Lee:909 Chestnut St, Kingsville, TX 78363:12250.56:17500.20:2200.60
+3402:William:Allen:1010 Elmwood St, Laketown, SC 29501:15000.45:12000.80:9800.65
+8145:Karen:Young:1111 Birchwood St, Lompoc, CA 93436:16750.23:13500.99:3700.10
+9324:Matthew:Hernandez:1212 Willowbrook St, Morningside, MI 48103:20350.10:18500.20:6350.50
+7639:Nancy:King:1313 Cedarview St, Maple Hill, KS 66104:23500.45:25000.30:10400.45
+1345:Kevin:Scott:1414 Red Maple St, Sunset Ridge, TX 77459:28450.12:15000.50:12250.80
+2583:Rachel:Adams:1515 Oakmont St, Forest Hills, OH 43215:19900.32:22250.30:9500.70
+8291:James:Wright:1616 Pine St, Hillsborough, NJ 08844:21250.78:13450.12:12750.10
+3948:Patricia:Lopez:1717 Cedarbrook St, Winterhaven, FL 33884:18250.99:15250.65:5400.55
+5973:Steven:Hill:1818 Maple St, Grandview, CO 80401:23950.24:13000.12:14550.98
+5831:Elizabeth:Garcia:1919 Birchwood St, Hillcrest, CA 93955:16700.88:8200.30:18050.75
+6819:Joshua:Evans:2020 Redwood St, Seaside, WA 98050:25800.40:19850.75:8900.45
+7320:Sophia:Collins:2121 Cedar St, Pinehill, AZ 86001:14500.80:10250.15:5000.35
+4120:Daniel:Mitchell:2222 Chestnut St, Clearwater, FL 33756:25500.65:6500.20:12000.35
+4392:Matthew:Roberts:2323 Maplewood St, Riverbend, IL 62025:15300.75:13250.30:14800.45
+6102:Olivia:Martinez:2424 Redwood St, Oakport, TX 77373:6700.40:8900.88:12345.76
+2365:Jack:Jackson:2525 Cedar St, Rivertown, TX 75001:20500.30:30500.70:2250.60
+8034:Megan:Thompson:2626 Birch St, Brookdale, NY 11570:21500.20:22050.45:12200.85
+9485:Ethan:White:2727 Pineview St, Clearview, CO 80206:13000.15:6500.70:18000.30
+5102:Hannah:Clark:2828 Redwood St, Summerside, VA 22801:16750.55:12000.25:9350.60
+3841:Joseph:Lewis:2929 Maple St, Willowbrook, CA 90210:28500.60:22000.55:11650.80
+6572:Alexander:Walker:3030 Cedar St, Pleasantview, MN 55103:18750.30:10450.20:12000.65
+2935:Benjamin:Hall:3131 Chestnut St, Edgewood, TX 78209:22450.60:13250.75:6800.40
+8102:Charlotte:Allen:3232 Oak St, Riverton, CT 06106:9000.75:14500.30:9900.45
+9203:William:Young:3333 Maplewood St, Libertyville, IL 60048:12300.15:23500.40:7650.50
+5612:Amelia:King:3434 Cedar St, Harborview, CA 90731:19050.35:12000.25:15800.90
+9208:David:Scott:3535 Birch St, Silverlake, FL 32801:16800.55:15500.75:6500.25
+7401:Charlotte:King:3636 Pine St, Maplewood, MN 55102:14250.60:12000.80:11250.40
+6852:Noah:Garcia:3737 Redwood St, Parkhill, TX 77001:5000.75:11000.60:7800.70
+4720:Jacob:Martinez:3838 Oakwood St, Fairview, NJ 07703:18500.25:17200.60:9300.90
+5127:Madison:Roberts:3939 Cedar St, Stonehill, TX 78660:21450.40:13000.90:15550.20
+3172:James:Lopez:4040 Pineview St, Oakfield, AL 35111:11850.30:12650.10:12000.75
+2840:Zoe:Evans:4141 Maple St, Briarwood, NJ 07670:26500.50:15250.30:11900.45
+2063:Nathan:Wright:4242 Redwood St, Willowbend, KY 40511:13500.80:18000.25:10250.55
+8472:Grace:Scott:4343 Cedarwood St, Clearwater, FL 33755:22500.40:13500.80:19000.90
+2635:Victoria:Lee:4444 Birch St, Highland Park, IL 60035:19850.25:16500.60:12200.75
+4810:Elijah:Hernandez:4545 Oak St, Rosewood, TX 75060:15500.70:12100.90:11250.60
+9711:Lucas:Johnson:4646 Cedar St, Newtown, CT 06470:13250.40:17500.80:14250.55
+2451:Scarlett:Davis:4747 Maplewood St, Westfield, NJ 07090:31250.50:14200.75:12900.25
+9810:Christopher:Lopez:4848 Pine St, Somerville, NJ 08876:20500.60:12500.50:13900.80
+5630:Liam:Martinez:4949 Cedarwood St, Oakgrove, CA 94501:13500.40:14500.90:9000.25
+3492:Chloe:Evans:5050 Birchwood St, Hilltop, TX 77002:24500.80:17500.60:11050.45
+3156:Andrew:Walker:5151 Oak St, Westlake, TX 75214:12500.60:11000.75:13600.40
+8462:Mia:Clark:5252 Redwood St, Northfield, IL 60093:16850.20:17500.85:14300.30
+4592:Joshua:Scott:5353 Maplewood St, Clearwater, FL 33764:18200.80:19850.75:8900.50
