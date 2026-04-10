@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <algorithm>
+#include <iomanip>
 using namespace std;
 
 const int MAX_ACCOUNTS = 100;
@@ -29,11 +30,11 @@ void DisplayAccounts(Account arr[], int accts) {
     cout << string(110, '-') << "\n";
     for (int i = 0; i < accts; i++) {
         cout << arr[i].customerID << "\t| "
-             << arr[i].firstName << " " << arr[i].lastName << "\t| "
-             << arr[i].address << "\t| $"
-             << arr[i].checking << "\t| $"
-             << arr[i].moneyMarket << "\t| $"
-             << arr[i].savings << "\n";
+             << left << setw(20) << arr[i].firstName + " " + arr[i].lastName << "| "
+             << left << setw(45) << arr[i].address << "| $"
+             << right << setw(10) << fixed << setprecision(2) << arr[i].checking << "\t| $"
+             << right << setw(10) << fixed << setprecision(2) << arr[i].moneyMarket << "\t| $"
+             << right << setw(10) << fixed << setprecision(2) << arr[i].savings << "\n";
     }
 }
 
@@ -46,9 +47,9 @@ void DisplaySavingsAccounts(Account arr[], int accts) {
     for (int i = 0; i < accts; i++) {
         if (arr[i].savings > 0) {
             cout << arr[i].customerID << "\t| "
-                 << arr[i].firstName << " " << arr[i].lastName << "\t| "
-                 << arr[i].address << "\t| $"
-                 << arr[i].savings << "\n";
+                 << left << setw(20) << arr[i].firstName + " " + arr[i].lastName << "| "
+                 << left << setw(45) << arr[i].address << "| $"
+                 << right << setw(10) << fixed << setprecision(2) << arr[i].savings << "\n";
         }
     }
 }
@@ -62,9 +63,9 @@ void DisplayCheckingAccounts(Account arr[], int accts) {
     for (int i = 0; i < accts; i++) {
         if (arr[i].checking > 0) {
             cout << arr[i].customerID << "\t| "
-                 << arr[i].firstName << " " << arr[i].lastName << "\t| "
-                 << arr[i].address << "\t| $"
-                 << arr[i].checking << "\n";
+                 << left << setw(20) << arr[i].firstName + " " + arr[i].lastName << "| "
+                 << left << setw(45) << arr[i].address << "| $"
+                 << right << setw(10) << fixed << setprecision(2) << arr[i].checking << "\n";
         }
     }
 }
@@ -78,9 +79,9 @@ void DisplayMoneyMktAccounts(Account arr[], int accts) {
     for (int i = 0; i < accts; i++) {
         if (arr[i].moneyMarket > 0) {
             cout << arr[i].customerID << "\t| "
-                 << arr[i].firstName << " " << arr[i].lastName << "\t| "
-                 << arr[i].address << "\t| $"
-                 << arr[i].moneyMarket << "\n";
+                 << left << setw(20) << arr[i].firstName + " " + arr[i].lastName << "| "
+                 << left << setw(45) << arr[i].address << "| $"
+                 << right << setw(10) << fixed << setprecision(2) << arr[i].moneyMarket << "\n";
         }
     }
 }
