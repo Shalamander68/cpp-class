@@ -11,7 +11,7 @@ class Point
     double getX();
     void setX(double, _x);
 
-    double setY();
+    double getY();
     void setY(double, _y);
 
     double distance();

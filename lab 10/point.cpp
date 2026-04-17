@@ -1,14 +1,27 @@
-/* Email: sbjohnso@fit.edu
-Purpose: Create an application, “PointApp”(i.e., “.cpp” file)
-that uses a class “Point”(with both Class Definition [i.e., “.h” file]
-& Member Function Definition [i.e., “.cpp”] ).
-Algorithm:
-  “PointApp” performs the following.
-    1. Creates a “Point” object
-    2. Changes both the X and Y components’
-    3. Retrieves and displays both the X and Y components
-    4. Displays the point’s distance from the origin
-  Upload all files in “zip” format to the Canvas “Lab 10
-  Submission” area.
-*/
+#include "point.h"
+#include <cmath>
 
+Point::Point(double _x, double _y){
+  x = _x;
+  y = _y;
+}
+
+double Point::getX(){
+  return x;
+}
+
+void Point::setX(double, _x){
+  x = _x
+}
+
+double Point::getY(){
+  return y;
+}
+
+void Point::setY(double, _y){
+  y = _y
+}
+
+double Point::distance(){
+  return sqrt(x*x + y*y);
+}
